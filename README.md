@@ -1,0 +1,1 @@
+# Derivation_of_vulnerable_medical_areas_to_resolve_the_imbalance_in_healthcare

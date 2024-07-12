@@ -1,6 +1,7 @@
 SBJ_2405_001/
 visualization/
 *.pptx
+*.pdf
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
